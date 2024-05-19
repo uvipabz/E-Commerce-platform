@@ -15,14 +15,14 @@ In the project directory, you can run:
 
 ### `nodemon`
 
-Using terminal go to the backend folder  type "npm i" download the node_modules.
-Then type nodemon for start the backend server.
+Using terminal go to the backend folder  type "npm i" download the node_modules.\
+Then type nodemon for start the backend server.\
 
 
 ### `npm start`
 
 Runs the app in the development mode.\
-Using terminal go to the frontnend folder type "npm i" download the node_modules.
+Using terminal go to the frontnend folder type "npm i" download the node_modules.\
 Then use "npm start" to start the frontend services.
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
@@ -32,12 +32,12 @@ You will also see any lint errors in the console.
 
 ### For the Machine Leaarning 
 
-Using terminal go to the ML folder inside backend folder.
-Install requirments using "pip install -r requirments.txt"
+Using terminal go to the ML folder inside backend folder.\
+Install requirments using "pip install -r requirments.txt"\
 Then type "python app.py" to run the app.
 
 
-Student ID - IT20159962
+Student ID - IT20159962\
 Student Name - Pabasara M.U
 
 
