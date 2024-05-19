@@ -15,14 +15,14 @@ In the project directory, you can run:
 
 ### `nodemon`
 
-Using terminal go to the backend folder  type "npm i" download the node_modules.\
+Using terminal go to the backend folder, type "npm i" download the node_modules.\
 Then type "nodemon" for start the backend server.
 
 
 ### `npm start`
 
 Runs the app in the development mode.\
-Using terminal go to the frontnend folder type "npm i" download the node_modules.\
+Using terminal go to the frontnend folder, type "npm i" download the node_modules.\
 Then use "npm start" to start the frontend services.
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
