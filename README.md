@@ -14,6 +14,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ### `nodemon`
+In your terminal type "npm install -g nodemon" to install nodemon.\
 Extract the ".env" file into Backend folder.\
 Using terminal go to the backend folder, type "npm i" download the node_modules.\
 Then type "nodemon" for start the backend server.
@@ -36,6 +37,9 @@ Using terminal go to the ML folder inside backend folder.\
 Install requirments using "pip install -r requirments.txt"\
 Then type "python app.py" to run the app.
 
+## Admin Credintials
+E-mail - admin@admin.com
+Password - Admin@123
 
 Student ID - IT20159962\
 Student Name - Pabasara M.U
