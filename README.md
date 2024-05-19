@@ -16,7 +16,7 @@ In the project directory, you can run:
 ### `nodemon`
 
 Using terminal go to the backend folder  type "npm i" download the node_modules.\
-Then type nodemon for start the backend server.\
+Then type nodemon for start the backend server.
 
 
 ### `npm start`
