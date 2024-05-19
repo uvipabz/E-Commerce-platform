@@ -14,7 +14,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ### `nodemon`
-
+Extract the env file into Backenf folder.\
 Using terminal go to the backend folder, type "npm i" download the node_modules.\
 Then type "nodemon" for start the backend server.
 
