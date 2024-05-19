@@ -2,7 +2,7 @@
 
 Requirements 
 1. IDE like VS CODE
-2. latest node.js
+2. Latest node.js
 3. python-3.10.9
 
 # Getting Started with Create React App
@@ -31,7 +31,7 @@ You will also see any lint errors in the console.
 
 
 ### For the Machine Leaarning 
-
+Extract the ML file in to Backend folder.\
 Using terminal go to the ML folder inside backend folder.\
 Install requirments using "pip install -r requirments.txt"\
 Then type "python app.py" to run the app.
