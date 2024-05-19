@@ -14,7 +14,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ### `nodemon`
-Extract the env file into Backenf folder.\
+Extract the ".env" file into Backend folder.\
 Using terminal go to the backend folder, type "npm i" download the node_modules.\
 Then type "nodemon" for start the backend server.
 
@@ -30,8 +30,8 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 
-### For the Machine Leaarning 
-Extract the ML file in to Backend folder.\
+### For the Machine Learning 
+Extract the "ML" file in to Backend folder.\
 Using terminal go to the ML folder inside backend folder.\
 Install requirments using "pip install -r requirments.txt"\
 Then type "python app.py" to run the app.
