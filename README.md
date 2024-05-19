@@ -38,7 +38,7 @@ Install requirments using "pip install -r requirments.txt"\
 Then type "python app.py" to run the app.
 
 ## Admin Credintials
-E-mail - admin@admin.com
+E-mail - admin@admin.com\
 Password - Admin@123
 
 Student ID - IT20159962\
